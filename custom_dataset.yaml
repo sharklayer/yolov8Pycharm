@@ -1,0 +1,9 @@
+path: C:\Users\Carlos\PycharmProjects\yolov8Pycharm\datasetOvino\
+train: images/train/
+val: images/train/
+
+#classes
+names:
+  0: dorper
+  1: poll_dorset
+  2: santa_ines
